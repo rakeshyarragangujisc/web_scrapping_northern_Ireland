@@ -1,0 +1,88 @@
+Topic Code,Topic Name,Detail URL
+ACCOMMODATION_TYPE,Accommodation Type,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=ACCOMMODATION_TYPE
+ACCOMMODATION_TYPE_AGG2,Accommodation Type - 2 Categories,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=ACCOMMODATION_TYPE_AGG2
+ACCOMMODATION_TYPE_AGG4,Accommodation Type - 4 Categories,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=ACCOMMODATION_TYPE_AGG4
+COUNTY_NI,County,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=COUNTY_NI
+DEA14,District Electoral Area 2014,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=DEA14
+DZ21,Census 2021 Data Zone,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=DZ21
+HEALTH_TRUST,Health and Social Care Trust,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HEALTH_TRUST
+HH_ADAPTED_EXTERNAL_WHEELCHAIR,Adaptation to Accommodation (Wheelchair - External),https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_ADAPTED_EXTERNAL_WHEELCHAIR
+HH_ADAPTED_HEARING,Adaptation to Accommodation (Hearing Difficulties),https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_ADAPTED_HEARING
+HH_ADAPTED_IND,Adaptation to Accommodation - 2 Categories,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_ADAPTED_IND
+HH_ADAPTED_INTERNAL_WHEELCHAIR,Adaptation to Accommodation (Wheelchair - Internal),https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_ADAPTED_INTERNAL_WHEELCHAIR
+HH_ADAPTED_NUM_TC4,Adaptation to Accommodation,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_ADAPTED_NUM_TC4
+HH_ADAPTED_OTHER,Adaptation to Accommodation (Other Reason),https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_ADAPTED_OTHER
+HH_ADAPTED_OTHER_PHYSICAL_MOBILITY,Adaptation to Accommodation (Other Physical or Mobility Difficulties),https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_ADAPTED_OTHER_PHYSICAL_MOBILITY
+HH_ADAPTED_VISUAL,Adaptation to Accommodation (Visual Difficulties),https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_ADAPTED_VISUAL
+HH_ADULTS_AND_CHILDREN,Adults and Children,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_ADULTS_AND_CHILDREN
+HH_ADULTS_AND_CHILDREN_AGG2,Adults and Children - 2 Categories,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_ADULTS_AND_CHILDREN_AGG2
+HH_ADULTS_AND_CHILDREN_AGG6,Adults and Children - 6 Categories,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_ADULTS_AND_CHILDREN_AGG6
+HH_ADULTS_EMPLOYMENT_TC3,Adults in Employment (Household),https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_ADULTS_EMPLOYMENT_TC3
+HH_CARERS_TC2,Provision of Unpaid Care (Household) - 3 Categories,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_CARERS_TC2
+HH_CARERS_TC4,Provision of Unpaid Care (Household),https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_CARERS_TC4
+HH_CAR_VAN_IND,Car or Van Availability - 2 Categories,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_CAR_VAN_IND
+HH_CAR_VAN_TC2,Car or Van Availability - 3 Categories,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_CAR_VAN_TC2
+HH_CAR_VAN_TC5,Car or Van Availability,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_CAR_VAN_TC5
+HH_CENTRAL_HEATING,Central Heating,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_CENTRAL_HEATING
+HH_CENTRAL_HEATING_AGG10,Central Heating - 10 Categories,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_CENTRAL_HEATING_AGG10
+HH_CENTRAL_HEATING_AGG3,Central Heating - 3 Categories,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_CENTRAL_HEATING_AGG3
+HH_CENTRAL_HEATING_AGG4,Central Heating - 4 Categories,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_CENTRAL_HEATING_AGG4
+HH_CENTRAL_HEATING_ELEC,Central Heating (Electric),https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_CENTRAL_HEATING_ELEC
+HH_CENTRAL_HEATING_IND,Central Heating - 2 Categories,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_CENTRAL_HEATING_IND
+HH_CENTRAL_HEATING_MAINS_GAS,Central Heating (Mains Gas),https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_CENTRAL_HEATING_MAINS_GAS
+HH_CENTRAL_HEATING_OIL,Central Heating (Oil),https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_CENTRAL_HEATING_OIL
+HH_CENTRAL_HEATING_OTHER,Central Heating (Other),https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_CENTRAL_HEATING_OTHER
+HH_CENTRAL_HEATING_RENEWABLE,Central Heating (Renewable Heating System),https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_CENTRAL_HEATING_RENEWABLE
+HH_CENTRAL_HEATING_SOLID_FUEL,Central Heating (Solid Fuel),https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_CENTRAL_HEATING_SOLID_FUEL
+HH_CENTRAL_HEATING_TANK_BOTTLED_GAS,Central Heating (Tank or Bottled Gas),https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_CENTRAL_HEATING_TANK_BOTTLED_GAS
+HH_CENTRAL_HEATING_WOOD,Central Heating (Wood),https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_CENTRAL_HEATING_WOOD
+HH_DEPENDENT_CHILDREN_AGG11,Dependent Children (Household),https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_DEPENDENT_CHILDREN_AGG11
+HH_DEPENDENT_CHILDREN_AGG5A,Dependent Children (Household) - 5 Categories A,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_DEPENDENT_CHILDREN_AGG5A
+HH_DEPENDENT_CHILDREN_AGG5B,Dependent Children (Household) - 5 Categories B,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_DEPENDENT_CHILDREN_AGG5B
+HH_DEPENDENT_CHILDREN_IND,Dependent Children (Household) - 2 Categories,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_DEPENDENT_CHILDREN_IND
+HH_DEPRIVATION,Household Deprivation,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_DEPRIVATION
+HH_DEPRIVATION_EDUCATION,Household Deprivation (Education),https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_DEPRIVATION_EDUCATION
+HH_DEPRIVATION_EMPLOYMENT,Household Deprivation (Employment),https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_DEPRIVATION_EMPLOYMENT
+HH_DEPRIVATION_HEALTH,Household Deprivation (Health),https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_DEPRIVATION_HEALTH
+HH_DEPRIVATION_HOUSING,Household Deprivation (Housing),https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_DEPRIVATION_HOUSING
+HH_DEPRIVATION_IND,Household Deprivation - 2 Categories,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_DEPRIVATION_IND
+HH_DISABLED_TC2,People with Health Problem or Disability (Household),https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_DISABLED_TC2
+HH_FAMILIES_COUNT_AGG3,Families (Count in Household),https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_FAMILIES_COUNT_AGG3
+HH_FAMILY_COMPOSITION_AGG14,Household Composition - 14 Categories,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_FAMILY_COMPOSITION_AGG14
+HH_FAMILY_COMPOSITION_AGG23,Household Composition,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_FAMILY_COMPOSITION_AGG23
+HH_FAMILY_COMPOSITION_AGG3,Household Composition - 3 Categories,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_FAMILY_COMPOSITION_AGG3
+HH_FAMILY_COMPOSITION_AGG5,Household Composition - 5 Categories,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_FAMILY_COMPOSITION_AGG5
+HH_FAMILY_COMPOSITION_AGG9,Household Composition - 9 Categories,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_FAMILY_COMPOSITION_AGG9
+HH_LANGUAGE,Language (Household),https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_LANGUAGE
+HH_LANGUAGE_AGG2,Language (Household) - 2 Categories,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_LANGUAGE_AGG2
+HH_LIFESTAGE_AGG15,Lifestage (Household),https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_LIFESTAGE_AGG15
+HH_LIFESTAGE_AGG9,Lifestage (Household) - 9 Categories,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_LIFESTAGE_AGG9
+HH_MULTI_ETHNIC_GROUP,Ethnic Group (Household),https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_MULTI_ETHNIC_GROUP
+HH_MULTI_ETHNIC_GROUP_AGG3,Ethnic Group (Household) - 3 Categories,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_MULTI_ETHNIC_GROUP_AGG3
+HH_PERSONS_PER_ROOM,Rooms (Persons per Room),https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_PERSONS_PER_ROOM
+HH_RELIGION,Religion or Religion Brought Up In (Household),https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_RELIGION
+HH_RELIGION_AGG3,Religion or Religion Brought Up In (Household) - 3 Categories,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_RELIGION_AGG3
+HH_RENEWABLE_ENERGY_IND,Renewable Energy Systems,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_RENEWABLE_ENERGY_IND
+HH_SIZE_TC2,Household Size - 2 Categories,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_SIZE_TC2
+HH_SIZE_TC3,Household Size - 3 Categories,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_SIZE_TC3
+HH_SIZE_TC4,Household Size - 4 Categories,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_SIZE_TC4
+HH_SIZE_TC5,Household Size - 5 Categories,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_SIZE_TC5
+HH_SIZE_TC6,Household Size,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_SIZE_TC6
+HH_TENURE,Tenure,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_TENURE
+HH_TENURE_AGG4,Tenure - 4 Categories,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_TENURE_AGG4
+HH_TENURE_AGG7,Tenure - 7 Categories,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=HH_TENURE_AGG7
+LGD14,Local Government District 2014,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=LGD14
+LGD93,Local Government District 1993,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=LGD93
+NUMBER_OF_ROOMS,Rooms (Number),https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=NUMBER_OF_ROOMS
+NUMBER_OF_ROOMS_AGG4,Rooms (Number) - 4 Categories,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=NUMBER_OF_ROOMS_AGG4
+NUMBER_OF_ROOMS_AGG5,Rooms (Number) - 5 Categories,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=NUMBER_OF_ROOMS_AGG5
+NUMBER_OF_ROOMS_AGG6,Rooms (Number) - 6 Categories,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=NUMBER_OF_ROOMS_AGG6
+OCCUPANCY_RATING_ROOMS_AGG2,Rooms (Occupancy Rating) - 2 Categories,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=OCCUPANCY_RATING_ROOMS_AGG2
+OCCUPANCY_RATING_ROOMS_AGG4,Rooms (Occupancy Rating) - 4 Categories,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=OCCUPANCY_RATING_ROOMS_AGG4
+OCCUPANCY_RATING_ROOMS_AGG5,Rooms (Occupancy Rating),https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=OCCUPANCY_RATING_ROOMS_AGG5
+PARLCON08,Parliamentary Constituency 2008,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=PARLCON08
+PARLCON24,Parliamentary Constituency 2024,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=PARLCON24
+SDZ21,Census 2021 Super Data Zone,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=SDZ21
+SETTLEMENT15,Settlement 2015,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=SETTLEMENT15
+TTWA2011,Travel to Work Areas 2011,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=TTWA2011
+URBAN_STATUS,Urban Status,https://build.nisra.gov.uk/en/metadata/variable?d=HOUSEHOLD&v=URBAN_STATUS
